@@ -20,7 +20,7 @@ Aplikasi berbasis web dengan bahasa php memanfaatkan library codeigniter versi 3
 
 ## Video dokumentasi instalasi dan preview aplikasi ada di link berikut
 
-[V i d e o](https://github.com)
+[V i d e o](https://youtu.be/TzHNEbgcmdQ)
 
 ## Hubungi saya di telegram berikut
 
